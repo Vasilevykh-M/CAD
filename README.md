@@ -4,10 +4,10 @@
 
 ### Кривые построенные с дефектом 0
 
-<video src='https://youtu.be/pDFYKkikjww' width=180/>
-<video src='https://youtu.be/Wz0uTGhABCY' width=180/>
-<video src='https://youtu.be/wFeThHhJGCY' width=180/>
+![](https://github.com/Vasilevykh-M/CAD/blob/master/Result/4_1.gif)
+![](https://github.com/Vasilevykh-M/CAD/blob/master/Result/4_2.gif)
+![](https://github.com/Vasilevykh-M/CAD/blob/master/Result/4_3.gif)
 
 ### Кривые построенные с деффетом 1
 
-<video src='https://youtu.be/VrRp4wddFFU' width=180/>
+![](https://github.com/Vasilevykh-M/CAD/blob/master/Result/4_4.gif)
